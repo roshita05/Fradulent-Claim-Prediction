@@ -1,0 +1,13 @@
+body {
+    background-color: #f7f7f7;
+    font-family: 'Arial', sans-serif;
+}
+h1 {
+    color: #007bff;
+}
+input[type="number"] {
+    margin-bottom: 15px;
+}
+select {
+    margin-bottom: 15px;
+}
